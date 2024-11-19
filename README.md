@@ -10,6 +10,7 @@ Materials in English:
 
 Thanks for your attention.
 ## Russian
+Эту строку написал Егор
 Проект, который был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Здесь отображены все шаги, которые были проделаны в статье. 
 
